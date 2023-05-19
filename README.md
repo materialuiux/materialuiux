@@ -6,12 +6,49 @@ Senior Android Developer
 
 Highly skilled in native app development with 7+ years of experience designing, building, and customizing android apps for various domains such as Hotel Management, Freight forwarding & shipping software solutions, Payment System, Doctor Booking, Health, and Fitness, Food Industry, Social Media Apps, Dating App, Productivity Apps, Service Providers, etc.
 
-* 🌍  I'm based in Moldova
+* 🌍  I'm based in Moldova,Chișinău
 * 🖥️  See my portfolio at [MaterialUiUx](http://materialuiux.com/)
 * 🧠  I'm learning Machine Learning
 * ⚡  Coffee flows through my veins, fueling my coding adventures and transforming caffeine into lines of logic and creativity. ☕💻
 
+
 ### Skills
+
+My Android skills include expertise in:
+❅ Java
+❅ Kotlin
+❅ Android Jetpack
+❅ Android app modularization
+❅ Android security
+❅ Android Architecture patterns such as MVC, MVP, MVVM
+❅ WebRTC
+❅ Dagger/Hilt
+❅ Rx (Java, Kotlin)
+❅ Kotlin Coroutines
+❅ Local Database management with SQLite, Realm, ORMLITE, Room
+❅ working with APIs (Retrofit, Volley, okhttp3)
+❅ working with real-time APIs (WebSockets, XMPP, IoT MQTT)
+❅ Firebase Integration
+❅ Maps (Google, MapBox, Openstreetmap)
+❅ social media integration with Facebook, Twitter, and Instagram
+❅ PDF Rendering
+❅ 3D Model Rendering
+❅ device hardware such as Bluetooth, GPS, Accelerometer, Camera, etc.
+❅ testing (Unit testing, Espresso testing, Firebase test lab)
+
+In addition to my Android skills, I also have expertise in:
+❅ Data Structures and Algorithms
+❅ OOP patterns
+❅ Spring framework
+❅ JavaFx
+❅ Angular
+❅ HTML
+❅ CSS
+❅ Javascript
+❅ TypeScript
+❅ React Native
+❅ Git (Bitbucket, GitHub, Gitlab)
+❅ Agile methodology
 
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
@@ -32,7 +69,9 @@ Highly skilled in native app development with 7+ years of experience designing, 
 <a href="https://filebase.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/filebase-colored.svg" width="36" height="36" alt="Filebase" /></a>
 </p>
 
+### Socials
 
+<p align="left"> <a href="https://www.github.com/MohammedAlsudani" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mohammed-alsudani-259a28152" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 ### Badges
 
 <b>My GitHub Stats</b>
