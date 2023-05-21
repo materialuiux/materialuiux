@@ -8,8 +8,10 @@ Highly skilled in native app development with 7+ years of experience designing, 
 
 * 🌍  I'm based in Moldova,Chișinău
 * 🖥️  See my portfolio at [MaterialUiUx](http://materialuiux.com/)
+* 👨‍💻  #SelfTaught Developer.
 * 🧠  I'm learning Machine Learning
 * ⚡  Coffee flows through my veins, fueling my coding adventures and transforming caffeine into lines of logic and creativity. ☕💻
+* ❤️  Loves 🎵 and 🎮.
 
 
 ### Skills
